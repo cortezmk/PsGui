@@ -1,0 +1,1200 @@
+{
+    "Metadata": {
+        "Columns": [
+            "Name",
+            "SI",
+            "Handles",
+            "VM",
+            "WS",
+            "PM",
+            "NPM",
+            "Path",
+            "Parent",
+            "Company",
+            "CPU",
+            "FileVersion",
+            "ProductVersion",
+            "Description",
+            "Product",
+            "__NounName",
+            "SafeHandle",
+            "Handle",
+            "BasePriority",
+            "ExitCode",
+            "HasExited",
+            "StartTime",
+            "ExitTime",
+            "Id",
+            "MachineName",
+            "MaxWorkingSet",
+            "MinWorkingSet",
+            "Modules",
+            "NonpagedSystemMemorySize64",
+            "NonpagedSystemMemorySize",
+            "PagedMemorySize64",
+            "PagedMemorySize",
+            "PagedSystemMemorySize64",
+            "PagedSystemMemorySize",
+            "PeakPagedMemorySize64",
+            "PeakPagedMemorySize",
+            "PeakWorkingSet64",
+            "PeakWorkingSet",
+            "PeakVirtualMemorySize64",
+            "PeakVirtualMemorySize",
+            "PriorityBoostEnabled",
+            "PriorityClass",
+            "PrivateMemorySize64",
+            "PrivateMemorySize",
+            "ProcessName",
+            "ProcessorAffinity",
+            "SessionId",
+            "StartInfo",
+            "Threads",
+            "HandleCount",
+            "VirtualMemorySize64",
+            "VirtualMemorySize",
+            "EnableRaisingEvents",
+            "StandardInput",
+            "StandardOutput",
+            "StandardError",
+            "WorkingSet64",
+            "WorkingSet",
+            "SynchronizingObject",
+            "MainModule",
+            "PrivilegedProcessorTime",
+            "TotalProcessorTime",
+            "UserProcessorTime",
+            "MainWindowHandle",
+            "MainWindowTitle",
+            "Responding",
+            "Site",
+            "Container"
+        ]
+    },
+    "ProjectedObjects": [
+        {
+            "Id": 0,
+            "Type": "System.Diagnostics.Process,System.ComponentModel.Component,System.MarshalByRefObject,System.Object",
+            "Properties": [
+                {
+                    "Name": "Name",
+                    "Value": "ApplicationFrameHost",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "SI",
+                    "Value": "7",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Handles",
+                    "Value": "370",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "VM",
+                    "Value": "2203579596800",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "WS",
+                    "Value": "31272960",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PM",
+                    "Value": "15007744",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "NPM",
+                    "Value": "21888",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Path",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Parent",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Company",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "CPU",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "FileVersion",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ProductVersion",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Description",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Product",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "__NounName",
+                    "Value": "Process",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "SafeHandle",
+                    "Value": null,
+                    "Type": "Microsoft.Win32.SafeHandles.SafeProcessHandle",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Handle",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "BasePriority",
+                    "Value": "8",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ExitCode",
+                    "Value": null,
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "HasExited",
+                    "Value": "False",
+                    "Type": "System.Boolean",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "StartTime",
+                    "Value": null,
+                    "Type": "System.DateTime",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ExitTime",
+                    "Value": null,
+                    "Type": "System.DateTime",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Id",
+                    "Value": "15324",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "MachineName",
+                    "Value": ".",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "MaxWorkingSet",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "MinWorkingSet",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "Modules",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessModuleCollection",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "NonpagedSystemMemorySize64",
+                    "Value": "21888",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "NonpagedSystemMemorySize",
+                    "Value": "21888",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PagedMemorySize64",
+                    "Value": "15007744",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PagedMemorySize",
+                    "Value": "15007744",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PagedSystemMemorySize64",
+                    "Value": "379744",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PagedSystemMemorySize",
+                    "Value": "379744",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakPagedMemorySize64",
+                    "Value": "16175104",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakPagedMemorySize",
+                    "Value": "16175104",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakWorkingSet64",
+                    "Value": "31744000",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakWorkingSet",
+                    "Value": "31744000",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakVirtualMemorySize64",
+                    "Value": "2203588059136",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakVirtualMemorySize",
+                    "Value": "269836288",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PriorityBoostEnabled",
+                    "Value": "True",
+                    "Type": "System.Boolean",
+                    "IsPrimitive": true,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "PriorityClass",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessPriorityClass",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "PrivateMemorySize64",
+                    "Value": "15007744",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PrivateMemorySize",
+                    "Value": "15007744",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ProcessName",
+                    "Value": "ApplicationFrameHost",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ProcessorAffinity",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "SessionId",
+                    "Value": "7",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "StartInfo",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessStartInfo",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "Threads",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessThreadCollection",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "HandleCount",
+                    "Value": "370",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "VirtualMemorySize64",
+                    "Value": "2203579596800",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "VirtualMemorySize",
+                    "Value": "261373952",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "EnableRaisingEvents",
+                    "Value": "False",
+                    "Type": "System.Boolean",
+                    "IsPrimitive": true,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "StandardInput",
+                    "Value": null,
+                    "Type": "System.IO.StreamWriter",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "StandardOutput",
+                    "Value": null,
+                    "Type": "System.IO.StreamReader",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "StandardError",
+                    "Value": null,
+                    "Type": "System.IO.StreamReader",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "WorkingSet64",
+                    "Value": "31272960",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "WorkingSet",
+                    "Value": "31272960",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "SynchronizingObject",
+                    "Value": null,
+                    "Type": "System.ComponentModel.ISynchronizeInvoke",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "MainModule",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessModule",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PrivilegedProcessorTime",
+                    "Value": null,
+                    "Type": "System.TimeSpan",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "TotalProcessorTime",
+                    "Value": null,
+                    "Type": "System.TimeSpan",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "UserProcessorTime",
+                    "Value": null,
+                    "Type": "System.TimeSpan",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "MainWindowHandle",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "MainWindowTitle",
+                    "Value": "Microsoft Store",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Responding",
+                    "Value": "True",
+                    "Type": "System.Boolean",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Site",
+                    "Value": null,
+                    "Type": "System.ComponentModel.ISite",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "Container",
+                    "Value": null,
+                    "Type": "System.ComponentModel.IContainer",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                }
+            ],
+            "Actions": [
+                {
+                    "Name": "add_OutputDataReceived"
+                },
+                {
+                    "Name": "remove_OutputDataReceived"
+                },
+                {
+                    "Name": "add_ErrorDataReceived"
+                },
+                {
+                    "Name": "remove_ErrorDataReceived"
+                },
+                {
+                    "Name": "add_Exited"
+                },
+                {
+                    "Name": "remove_Exited"
+                },
+                {
+                    "Name": "CloseMainWindow"
+                },
+                {
+                    "Name": "WaitForInputIdle"
+                },
+                {
+                    "Name": "Close"
+                },
+                {
+                    "Name": "Refresh"
+                },
+                {
+                    "Name": "Start"
+                },
+                {
+                    "Name": "ToString"
+                },
+                {
+                    "Name": "WaitForExit"
+                },
+                {
+                    "Name": "BeginOutputReadLine"
+                },
+                {
+                    "Name": "BeginErrorReadLine"
+                },
+                {
+                    "Name": "CancelOutputRead"
+                },
+                {
+                    "Name": "CancelErrorRead"
+                },
+                {
+                    "Name": "Kill"
+                },
+                {
+                    "Name": "add_Disposed"
+                },
+                {
+                    "Name": "remove_Disposed"
+                },
+                {
+                    "Name": "Dispose"
+                },
+                {
+                    "Name": "GetLifetimeService"
+                },
+                {
+                    "Name": "InitializeLifetimeService"
+                },
+                {
+                    "Name": "Equals"
+                },
+                {
+                    "Name": "GetHashCode"
+                },
+                {
+                    "Name": "GetType"
+                }
+            ]
+        },
+        {
+            "Id": 1,
+            "Type": "System.Diagnostics.Process,System.ComponentModel.Component,System.MarshalByRefObject,System.Object",
+            "Properties": [
+                {
+                    "Name": "Name",
+                    "Value": "audiodg",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "SI",
+                    "Value": "0",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Handles",
+                    "Value": "300",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "VM",
+                    "Value": "2203487125504",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "WS",
+                    "Value": "33169408",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PM",
+                    "Value": "44834816",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "NPM",
+                    "Value": "16496",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Path",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Parent",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Company",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "CPU",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "FileVersion",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ProductVersion",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Description",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Product",
+                    "Value": null,
+                    "Type": "System.Object",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "__NounName",
+                    "Value": "Process",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "SafeHandle",
+                    "Value": null,
+                    "Type": "Microsoft.Win32.SafeHandles.SafeProcessHandle",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Handle",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "BasePriority",
+                    "Value": "8",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ExitCode",
+                    "Value": null,
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "HasExited",
+                    "Value": null,
+                    "Type": "System.Boolean",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "StartTime",
+                    "Value": null,
+                    "Type": "System.DateTime",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ExitTime",
+                    "Value": null,
+                    "Type": "System.DateTime",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Id",
+                    "Value": "22972",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "MachineName",
+                    "Value": ".",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "MaxWorkingSet",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "MinWorkingSet",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "Modules",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessModuleCollection",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "NonpagedSystemMemorySize64",
+                    "Value": "16496",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "NonpagedSystemMemorySize",
+                    "Value": "16496",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PagedMemorySize64",
+                    "Value": "44834816",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PagedMemorySize",
+                    "Value": "44834816",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PagedSystemMemorySize64",
+                    "Value": "187032",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PagedSystemMemorySize",
+                    "Value": "187032",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakPagedMemorySize64",
+                    "Value": "45903872",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakPagedMemorySize",
+                    "Value": "45903872",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakWorkingSet64",
+                    "Value": "33775616",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakWorkingSet",
+                    "Value": "33775616",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakVirtualMemorySize64",
+                    "Value": "2203489767424",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PeakVirtualMemorySize",
+                    "Value": "171544576",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PriorityBoostEnabled",
+                    "Value": null,
+                    "Type": "System.Boolean",
+                    "IsPrimitive": true,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "PriorityClass",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessPriorityClass",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "PrivateMemorySize64",
+                    "Value": "44834816",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PrivateMemorySize",
+                    "Value": "44834816",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ProcessName",
+                    "Value": "audiodg",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "ProcessorAffinity",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "SessionId",
+                    "Value": "0",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "StartInfo",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessStartInfo",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "Threads",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessThreadCollection",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "HandleCount",
+                    "Value": "300",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "VirtualMemorySize64",
+                    "Value": "2203487125504",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "VirtualMemorySize",
+                    "Value": "168902656",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "EnableRaisingEvents",
+                    "Value": "False",
+                    "Type": "System.Boolean",
+                    "IsPrimitive": true,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "StandardInput",
+                    "Value": null,
+                    "Type": "System.IO.StreamWriter",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "StandardOutput",
+                    "Value": null,
+                    "Type": "System.IO.StreamReader",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "StandardError",
+                    "Value": null,
+                    "Type": "System.IO.StreamReader",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "WorkingSet64",
+                    "Value": "33169408",
+                    "Type": "System.Int64",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "WorkingSet",
+                    "Value": "33169408",
+                    "Type": "System.Int32",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "SynchronizingObject",
+                    "Value": null,
+                    "Type": "System.ComponentModel.ISynchronizeInvoke",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "MainModule",
+                    "Value": null,
+                    "Type": "System.Diagnostics.ProcessModule",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "PrivilegedProcessorTime",
+                    "Value": null,
+                    "Type": "System.TimeSpan",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "TotalProcessorTime",
+                    "Value": null,
+                    "Type": "System.TimeSpan",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "UserProcessorTime",
+                    "Value": null,
+                    "Type": "System.TimeSpan",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "MainWindowHandle",
+                    "Value": null,
+                    "Type": "System.IntPtr",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "MainWindowTitle",
+                    "Value": "",
+                    "Type": "System.String",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Responding",
+                    "Value": "True",
+                    "Type": "System.Boolean",
+                    "IsPrimitive": true,
+                    "IsSettable": false
+                },
+                {
+                    "Name": "Site",
+                    "Value": null,
+                    "Type": "System.ComponentModel.ISite",
+                    "IsPrimitive": false,
+                    "IsSettable": true
+                },
+                {
+                    "Name": "Container",
+                    "Value": null,
+                    "Type": "System.ComponentModel.IContainer",
+                    "IsPrimitive": false,
+                    "IsSettable": false
+                }
+            ],
+            "Actions": [
+                {
+                    "Name": "add_OutputDataReceived"
+                },
+                {
+                    "Name": "remove_OutputDataReceived"
+                },
+                {
+                    "Name": "add_ErrorDataReceived"
+                },
+                {
+                    "Name": "remove_ErrorDataReceived"
+                },
+                {
+                    "Name": "add_Exited"
+                },
+                {
+                    "Name": "remove_Exited"
+                },
+                {
+                    "Name": "CloseMainWindow"
+                },
+                {
+                    "Name": "WaitForInputIdle"
+                },
+                {
+                    "Name": "Close"
+                },
+                {
+                    "Name": "Refresh"
+                },
+                {
+                    "Name": "Start"
+                },
+                {
+                    "Name": "ToString"
+                },
+                {
+                    "Name": "WaitForExit"
+                },
+                {
+                    "Name": "BeginOutputReadLine"
+                },
+                {
+                    "Name": "BeginErrorReadLine"
+                },
+                {
+                    "Name": "CancelOutputRead"
+                },
+                {
+                    "Name": "CancelErrorRead"
+                },
+                {
+                    "Name": "Kill"
+                },
+                {
+                    "Name": "add_Disposed"
+                },
+                {
+                    "Name": "remove_Disposed"
+                },
+                {
+                    "Name": "Dispose"
+                },
+                {
+                    "Name": "GetLifetimeService"
+                },
+                {
+                    "Name": "InitializeLifetimeService"
+                },
+                {
+                    "Name": "Equals"
+                },
+                {
+                    "Name": "GetHashCode"
+                },
+                {
+                    "Name": "GetType"
+                }
+            ]
+        }
+    ]
+}
